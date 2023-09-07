@@ -1,1 +1,1 @@
-# Variational_auto_encoder
+# Variational Auto Encoder : Exploration
